@@ -12,7 +12,10 @@
 <img src="https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c53700fc-d89e-476c-a5fc-01d6b2aa7f7f" width=640>
 
 ## What is the cause of chemical bonding?
-* The basic cause of chemical bonding is to attain noble gas configuration either by transfer of electron from a metal to non- metal or by sharing of electrons between two non-metal atoms.
+* The basic cause of chemical bonding is
+* to attain noble gas configuration 
+* either by transfer of electron from a metal to non- metal 
+* or by sharing of electrons between two non-metal atoms.
 
 ## Why are chemical bonds stable?
 * The resulting compound is lower in energy as compared to sum of energies of the reacting atom/molecule and hence is more stable.
