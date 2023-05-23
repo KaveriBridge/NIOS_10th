@@ -11,7 +11,7 @@
 * Production, consumption, and capital formation are three basic economic activities.
 * Production is defined as the creation of utility.
 * Land, labor, capital, and entrepreneurship are the four factors of production.
-* Wages, interest, rent, and profits are the factor payments made by firms to the owners of factors of production.
+* Rent, wages, interest and profits are the factor payments made by firms to the owners of factors of production.
 * For the owners of the factor services, these payments are called factor incomes.
 * Consumption means the utilization of goods and services for the direct satisfaction of individual and collective wants.
 * Capital formation is the surplus of production over consumption over a period of time.
@@ -27,6 +27,7 @@
 * Land, labor, capital, and entrepreneurship are the factors of production.
 * Producers aim to maximize the production of goods and services by utilizing different combinations of factors of production.
 
+## Factors of production
 ### Land
 ### Labour
 ### Capital
@@ -44,3 +45,6 @@
 
 * These payments are referred to as factor payments, and the incomes received by the owners of factors of production are called factor incomes
 
+## Consumption
+
+## Capital formation
