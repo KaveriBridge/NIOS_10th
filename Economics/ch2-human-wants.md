@@ -8,6 +8,7 @@
 * Wants, which make our life easy and comfortable, are called comforts.
 * Some wants give us pleasure but they are satisfied by costly goods are called luxuries.
 * Although a single want is satiable, all wants can not be satisfied due to the scarcity of resources.
+* Indian philosophy is to limit our wants to get more and more satisfaction
 #### Some most important characteristics of wants are :
 * Wants are unlimited
 * A single want is satiable
@@ -15,8 +16,6 @@
 * Wants vary with time, place and person. 
 * Present wants are more important than future wants
 * Wants change and expand with development,
-
-* Indian philosophy is to limit our wants to get more and more satisfaction
 
 #### Terminal exercise  
 1. Give any two examples showing the conversion of desires into want.
