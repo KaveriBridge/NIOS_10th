@@ -1,13 +1,5 @@
 ## BASIC ECONOMIC ACTIVITIES
-### Objectives
-* understand production and its goals;
-* know the factors of production and factor incomes;
-* know about consumption;
-* be familiar with the goods produced for consumption;
-* understand how production and consumption help in capital formation;
-* explain the circular flow of economic activities.
-
-### WHAT HAVE YOU LEARNT
+## Summary
 * Production, consumption, and capital formation are three basic economic activities.
 * Production is defined as the creation of utility.
 * Land, labor, capital, and entrepreneurship are the four factors of production.
@@ -16,7 +8,7 @@
 * Consumption means the utilization of goods and services for the direct satisfaction of individual and collective wants.
 * Capital formation is the surplus of production over consumption over a period of time.
 
-## Production
+### Production
 * Scarce resources are used in the production of goods and services.
 * The goal of production is to satisfy our wants.
 * Goods and services can be sold in markets or provided by the government at a nominal charge.
