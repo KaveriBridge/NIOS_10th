@@ -17,7 +17,7 @@
 * Present wants are more important than future wants
 * Wants change and expand with development,
 
-#### Terminal exercise  
+### Terminal exercise  
 1. Give any two examples showing the conversion of desires into want.
 2. How do wants arise and grow? Explain with the help of an example.
 3. All wants can not be satisfied? Explain why?
