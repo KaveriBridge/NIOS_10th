@@ -5,7 +5,7 @@
 * know about consumption;
 * be familiar with the goods produced for consumption;
 * understand how production and consumption help in capital formation;
-* explain circular flow of economic activities.
+* explain the circular flow of economic activities.
 
 ### WHAT HAVE YOU LEARNT
 * Production, consumption, and capital formation are three basic economic activities.
@@ -16,7 +16,7 @@
 * Consumption means the utilization of goods and services for the direct satisfaction of individual and collective wants.
 * Capital formation is the surplus of production over consumption over a period of time.
 
-### 
+## Production
 * Scarce resources are used in the production of goods and services.
 * The goal of production is to satisfy our wants.
 * Goods and services can be sold in markets or provided by the government at a nominal charge.
@@ -38,11 +38,8 @@
  - labor by the laborer, 
  - capital by those who acquire capital goods, and 
  - entrepreneurship by the entrepreneur.
-
 * The owners of factors of production are compensated for their productive services.
-
 * Rent is paid to landlords, wages to laborers, interest to owners of capital, and profit to entrepreneurs as compensation for their productive services.
-
 * These payments are referred to as factor payments, and the incomes received by the owners of factors of production are called factor incomes
 
 ## Consumption
