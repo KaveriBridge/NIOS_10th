@@ -38,6 +38,13 @@ Neem trees offer numerous advantages due to their versatile nature and various b
 
 ## 4. Answer any one of the following questions in about 100 - 150 words. 4
 #### (a) In the poem ‘Tall Trees’, the poet presents an integrated picture of nature. It is a harmonious world where various elements and objects of nature like the clouds, birds, day, night, and moon work in close association and without any disagreement. It is a pleasant picture of selfless care and protection. Write a paragraph of 20-25 words about the three activities of the tall trees as described in the poem. (See Lesson 4)
+
+In the poem "Tall Trees," the three activities of the tall trees are:
+
+* Watching the clouds go by: The tall trees, firmly rooted in the earth with their heads reaching towards the sky, observe the passing clouds, showcasing their connection to the natural world.
+* Sheltering birds: When dusk arrives and birds seek rest, the tall trees provide a safe haven, offering shelter and protection to the birds in their nests.
+* Peeping at the sleeping world: During the night, as the world slumbers, the tall trees stand tall, their tops peeking through the darkness. The moonlight shines down on the tranquil scene, casting its gentle glow upon the sleeping Earth.
+
 #### (b) “Show me, son, how to laugh; show me how I used to laugh and smile once upon a time when I was like you.” The father and son in the poem represent two different periods of time. Elaborate. (See Lesson-25)
 
 ## 5. Answer any one of the following questions in about 100 - 150 words. 4
