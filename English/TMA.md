@@ -24,17 +24,35 @@ Intolerable Noises and Suggestions for Reduction:
 ## 3. Answer any one of the following questions in about 40-60 words. 2
 #### (a) Mother Teresa took care of the old and the sick who were unwanted and abandoned by their relatives. How did Mother Teresa make her patients feel comfortable? (See Lesson-17)
 #### (b) We have all seen neem trees growing near our houses, on roadsides, in parks, in gardens, in forests and even in our own courtyards. Some of us also know a few of its uses. Describe in your words the advantages of Neem trees, and do you think it is correct to call it a village pharmacy. (See Lesson-21)
+Neem trees offer numerous advantages due to their versatile nature and various beneficial properties:
+
+* Medicinal Uses: Neem has been used in traditional medicine for centuries. It possesses antibacterial, antifungal, and antiviral properties. Neem extracts are used to treat various ailments such as skin disorders, digestive issues, and dental problems.
+
+* Pest Control: Neem is a natural insect repellent. Its leaves, oil, and extracts are used in organic farming and gardening to control pests without harmful chemicals. Neem-based products are eco-friendly and safe for humans and animals.
+
+* Beauty and Skincare: Neem is a popular ingredient in cosmetics and skincare products. It helps in treating acne, reducing skin inflammation, and promoting healthy hair and scalp.
+
+* Environmental Benefits: Neem trees contribute to environmental sustainability. They act as carbon sinks, help combat soil erosion, and provide shade and shelter for birds and animals.
+
+* Calling Neem a Village Pharmacy: It is justified to refer to neem as a village pharmacy due to its extensive medicinal properties and diverse applications. Neem's various components, such as leaves, bark, seeds, and oil, offer a wide range of therapeutic benefits. In rural areas, where access to modern healthcare may be limited, neem serves as a valuable and easily accessible natural remedy for common ailments. The presence of neem trees in villages provides local communities with a sustainable source of medicine and contributes to their overall health and well-being.
+
 ## 4. Answer any one of the following questions in about 100 - 150 words. 4
 #### (a) In the poem ‘Tall Trees’, the poet presents an integrated picture of nature. It is a harmonious world where various elements and objects of nature like the clouds, birds, day, night, and moon work in close association and without any disagreement. It is a pleasant picture of selfless care and protection. Write a paragraph of 20-25 words about the three activities of the tall trees as described in the poem. (See Lesson 4)
 #### (b) “Show me, son, how to laugh; show me how I used to laugh and smile once upon a time when I was like you.” The father and son in the poem represent two different periods of time. Elaborate. (See Lesson-25)
+
 ## 5. Answer any one of the following questions in about 100 - 150 words. 4
+
 #### (a) “Look, I can’t carry mountains or rocks. God gave me only a little strength. I can only carry pebbles. My heart cries out for Rama, and I’ll do all I can for him.”  Was the work of the squirrel less important than the monkey’s work? Give reasons for your answer. (See Lesson-2)
+
 #### (b) Answer the following questions in about 80-100 words each.
 * (i) Comment on the role of the grandmother in trying to make the family atmosphere warm and friendly.
 * (ii) Why do you think people give gifts to their loved ones?
 * (iii) Do you think Kezia’s father was a cruel man who didn’t love his daughter? Give reasons. (See Lesson-18)
+
 ## 6. Prepare any one project out of the following in about 500 words: 6
+
 #### (a) We often hear, ”Ekk naari padhegi, saat peedhi taregi”. Women’s Education in India has a major preoccupation of both the government and civil society, as educated women can play a very important role in the development of the country. Education is a milestone of women’s Empowerment because it enables them to respond to the challenges, to confront their traditional roles, and change their lives. Women’s Education in India has been a need of the hour, as education is a foundation stone for the empowerment of woman. Education also brings a reduction in inequalities and functions as a means of improving their status within the family and develops the concept of participation. What advantages does society get from having educated women? What are the various steps taken by the government to support Women’s Education in the country?
+
 #### (b) Writing your autobiography can seem like an overwhelming task. To break it into manageable pieces, ask yourself questions that will separate your life into ages, experiences, and important events. Then, interview yourself just as you would another person if you were writing their life story.
 * The following list of questions will help you generate brilliant ideas for your autobiographies whenever you need them:
 * Who influenced your personal development?
