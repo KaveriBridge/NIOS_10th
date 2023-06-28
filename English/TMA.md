@@ -1,0 +1,38 @@
+# ENGLISH (202) Tutor Marked Assignment
+### Max. Marks: 20
+### Note:
+* (i) All questions are compulsory. The Marks allotted for each question are given beside the questions.
+* (ii) Write your name, enrollment numbers, AI name, and subject on the first page of the answer sheet.
+## 1. Answer any one of the following questions in about 40-60 words.
+####  (a) Shovan Lal, though poor, was large-hearted. Give at least one example in support of your answer. (See Lesson-7)
+####  (b) I have three visions for India. Mention all the three visions of APJ Abdul Kalam. (See Lesson-15)
+## 2. Answer any one of the following questions in about 40-60 words. 
+#### (a) List out noises that you find intolerable and give suggestions to reduce them.  (See Lesson-10)
+#### (b) “All fathers are not alike. Some show their love and affection for their children, and play with them. Others also love and care for their children, but they show it by working hard for them and giving them instructions and advice.” Describe the kind of relationship between Kezia and her father. (See Lesson-18)
+## 3. Answer any one of the following questions in about 40-60 words. 2
+#### (a) Mother Teresa took care of the old and the sick who were unwanted and abandoned by their relatives. How did Mother Teresa make her patients feel comfortable? (See Lesson-17)
+#### (b) We have all seen neem trees growing near our houses, on roadsides, in parks, in gardens, in forests and even in our own courtyards. Some of us also know a few of its uses. Describe in your words the advantages of Neem trees, and do you think it is correct to call it a village pharmacy. (See Lesson-21)
+## 5. Answer any one of the following questions in about 100 - 150 words. 4
+#### (a) In the poem ‘Tall Trees’, the poet presents an integrated picture of nature. It is a harmonious world where various elements and objects of nature like the clouds, birds, day, night, and moon work in close association and without any disagreement. It is a pleasant picture of selfless care and protection. Write a paragraph of 20-25 words about the three activities of the tall trees as described in the poem. (See Lesson 4)
+#### (b) “Show me, son, how to laugh; show me how I used to laugh and smile once upon a time when I was like you.” The father and son in the poem represent two different periods of time. Elaborate. (See Lesson-25)
+## 6. Answer any one of the following questions in about 100 - 150 words. 4
+#### (a) “Look, I can’t carry mountains or rocks. God gave me only a little strength. I can only carry pebbles. My heart cries out for Rama, and I’ll do all I can for him.”  Was the work of the squirrel less important than the monkey’s work? Give reasons for your answer. (See Lesson-2)
+## (b) Answer the following questions in about 80-100 words each.
+### (i) Comment on the role of the grandmother in trying to make the family atmosphere warm and friendly.
+### (ii) Why do you think people give gifts to their loved ones?
+### (iii) Do you think Kezia’s father was a cruel man who didn’t love his daughter? Give reasons. (See Lesson-18)
+## 7. Prepare any one project out of the following in about 500 words: 6
+#### (a) We often hear, ”Ekk naari padhegi, saat peedhi taregi”. Women’s Education in India has a major preoccupation of both the government and civil society, as educated women can play a very important role in the development of the country. Education is a milestone of women’s Empowerment because it enables them to respond to the challenges, to confront their traditional roles, and change their lives. Women’s Education in India has been a need of the hour, as education is a foundation stone for the empowerment of woman. Education also brings a reduction in inequalities and functions as a means of improving their status within the family and develops the concept of participation. What advantages does society get from having educated women? What are the various steps taken by the government to support Women’s Education in the country?
+#### (b) Writing your autobiography can seem like an overwhelming task. To break it into manageable pieces, ask yourself questions that will separate your life into ages, experiences, and important events. Then, interview yourself just as you would another person if you were writing their life story.
+* The following list of questions will help you generate brilliant ideas for your autobiographies whenever you need them:
+* Who influenced your personal development?
+* What are your best and worst childhood memories?
+* What is your family’s social and ethnic background?
+* What are your relations with parents and other relatives?
+* What are your main achievements in life?
+* What are your goals for the future?
+* What skills would you like to develop and why?
+* What was the most memorable day in your life?
+* What was the most important lesson you have ever learned in your life?
+* What are the most important values in life, in your opinion?
+Prepare your autobiography in about 150-200 words incorporating the answers to the questions mentioned above
