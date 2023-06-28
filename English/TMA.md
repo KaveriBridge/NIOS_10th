@@ -50,6 +50,12 @@ In the poem "Tall Trees," the three activities of the tall trees are:
 ## 5. Answer any one of the following questions in about 100 - 150 words. 4
 
 #### (a) “Look, I can’t carry mountains or rocks. God gave me only a little strength. I can only carry pebbles. My heart cries out for Rama, and I’ll do all I can for him.”  Was the work of the squirrel less important than the monkey’s work? Give reasons for your answer. (See Lesson-2)
+* No, the work of the squirrel was not less important than the monkey's work. Although the squirrel could only carry small pebbles compared to the monkeys carrying large rocks, its contribution was significant in its own way. The squirrel demonstrated unwavering dedication and a genuine desire to help Ram by doing what it could with the limited strength it had.
+
+* The story highlights the importance of love and commitment rather than the scale or magnitude of the task. Ram himself recognized and valued the squirrel's effort, understanding that it was driven by pure devotion. The monkeys, on the other hand, failed to see the significance of the squirrel's contribution and ridiculed its efforts.
+
+* This tale teaches us that every act of dedication, regardless of size, matters. It emphasizes the idea that one's intentions, love, and willingness to help hold greater value than the physical strength or scope of the work. Each individual's unique contribution, no matter how small, can make a difference when it is fueled by genuine care and dedication.
+
 
 #### (b) Answer the following questions in about 80-100 words each.
 * (i) Comment on the role of the grandmother in trying to make the family atmosphere warm and friendly.
