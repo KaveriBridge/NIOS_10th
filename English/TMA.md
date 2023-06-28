@@ -6,8 +6,20 @@
 ## 1. Answer any one of the following questions in about 40-60 words.
 ####  (a) Shovan Lal, though poor, was large-hearted. Give at least one example in support of your answer. (See Lesson-7)
 ####  (b) I have three visions for India. Mention all the three visions of APJ Abdul Kalam. (See Lesson-15)
+APJ Abdul Kalam had three visions for India:
+* Freedom: Kalam believed in protecting and nurturing India's hard-fought freedom. He emphasized the importance of respecting the freedom of others and acknowledged the significance of India's first vision of freedom in 1857 during the war of Independence.
+* Development: Kalam envisioned India as a developed nation, self-reliant and self-assured. Despite significant achievements and a high growth rate, he recognized the need for India to have the self-confidence to see itself as a developed nation and embrace its potential.
+* Strength: Kalam emphasized that India must stand up to the world to gain respect. He highlighted the importance of both military and economic strength, emphasizing that strength respects strength. India needed to be strong not only in terms of military power but also as an economic power, with both aspects going hand-in-hand.
+
 ## 2. Answer any one of the following questions in about 40-60 words. 
 #### (a) List out noises that you find intolerable and give suggestions to reduce them.  (See Lesson-10)
+Intolerable Noises and Suggestions for Reduction:
+* Loud construction noise: Encourage builders to follow noise regulations and limit construction activities during sensitive hours.
+* Traffic noise: Implement traffic management measures like sound barriers, speed limits, and efficient public transportation systems.
+* Noisy neighbors: Promote awareness about noise etiquette and encourage respectful behavior.
+* Industrial noise: Enforce strict noise control measures in industrial areas and provide soundproofing solutions.
+* Loud music or parties: Educate individuals on noise levels and encourage moderation while enjoying music or hosting gatherings
+
 #### (b) “All fathers are not alike. Some show their love and affection for their children, and play with them. Others also love and care for their children, but they show it by working hard for them and giving them instructions and advice.” Describe the kind of relationship between Kezia and her father. (See Lesson-18)
 ## 3. Answer any one of the following questions in about 40-60 words. 2
 #### (a) Mother Teresa took care of the old and the sick who were unwanted and abandoned by their relatives. How did Mother Teresa make her patients feel comfortable? (See Lesson-17)
