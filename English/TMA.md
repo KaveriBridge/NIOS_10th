@@ -17,10 +17,10 @@
 #### (b) “Show me, son, how to laugh; show me how I used to laugh and smile once upon a time when I was like you.” The father and son in the poem represent two different periods of time. Elaborate. (See Lesson-25)
 ## 5. Answer any one of the following questions in about 100 - 150 words. 4
 #### (a) “Look, I can’t carry mountains or rocks. God gave me only a little strength. I can only carry pebbles. My heart cries out for Rama, and I’ll do all I can for him.”  Was the work of the squirrel less important than the monkey’s work? Give reasons for your answer. (See Lesson-2)
-## (b) Answer the following questions in about 80-100 words each.
-### (i) Comment on the role of the grandmother in trying to make the family atmosphere warm and friendly.
-### (ii) Why do you think people give gifts to their loved ones?
-### (iii) Do you think Kezia’s father was a cruel man who didn’t love his daughter? Give reasons. (See Lesson-18)
+#### (b) Answer the following questions in about 80-100 words each.
+* (i) Comment on the role of the grandmother in trying to make the family atmosphere warm and friendly.
+* (ii) Why do you think people give gifts to their loved ones?
+* (iii) Do you think Kezia’s father was a cruel man who didn’t love his daughter? Give reasons. (See Lesson-18)
 ## 6. Prepare any one project out of the following in about 500 words: 6
 #### (a) We often hear, ”Ekk naari padhegi, saat peedhi taregi”. Women’s Education in India has a major preoccupation of both the government and civil society, as educated women can play a very important role in the development of the country. Education is a milestone of women’s Empowerment because it enables them to respond to the challenges, to confront their traditional roles, and change their lives. Women’s Education in India has been a need of the hour, as education is a foundation stone for the empowerment of woman. Education also brings a reduction in inequalities and functions as a means of improving their status within the family and develops the concept of participation. What advantages does society get from having educated women? What are the various steps taken by the government to support Women’s Education in the country?
 #### (b) Writing your autobiography can seem like an overwhelming task. To break it into manageable pieces, ask yourself questions that will separate your life into ages, experiences, and important events. Then, interview yourself just as you would another person if you were writing their life story.
