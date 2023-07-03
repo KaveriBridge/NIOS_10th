@@ -43,3 +43,13 @@ After studying this lesson you will be able to:
 | Blue Revolution  | Significant increase in freshwater and marine fish catch                                                                                          |
 | Yellow Revolution| Steady and assured supply of poultry products                                                                                                      |
 | Pink Revolution  | Rise in apple production, particularly in Himachal Pradesh and J&K states                                                           |
+
+
+## Salient features of Indian agriculture
+* (a) Subsistence Agriculture: 
+* (b) Pressure of population on Agriculture: ~70% of population is still directly or indirectly dependent on agriculture.
+* (c) Mechanization of farming: complete mechanization is still a distant dream
+* (d) Dependence upon monsoon: Two third of cropped areas is still dependent upon monsoon
+* (e) Variety of crops: India has diversity of topography, climate and soil. 
+* (f) Predominance of food crops
+* (g) Seasonal patterns: India has three distinct agricultural/cropping seasons - kharif, rabi and zaid. 
