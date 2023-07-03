@@ -70,6 +70,35 @@ After studying this lesson you will be able to:
 | Major Producers in India     | Andhra Pradesh, Tamil Nadu, and Gujarat (60% of total production)                                     |
 | Other Producers in India     | Maharashtra, Karnataka, and Odisha (30% of total production)                                           |
 
+## Coffee 
+| Aspect        | Description                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------|
+| Temperature   | Hot and humid climate, temperature between 15°C and 28°C, grown under shady trees                              |
+|               | Strong sunlight, high temperature above 30°C, frost, and snowfall are harmful for coffee cultivation           |
+|               | Dry weather is necessary at the time of ripening of berries                                                   |
+| Rainfall      | Rainfall between 150 to 250 cm is favorable for coffee cultivation                                            |
+| Soil          | Well-drained, rich friable loamy soil containing humus and minerals like iron and calcium                     |
+|               | Proper manuring to retain and replenish fertility and increase productivity                                   |
+| Labour        | Requires plenty of cheap and skilled labor for sowing, transplanting, pruning, plucking, grading, and packing |
+| Distribution  | Karnataka, Kerala, and Tamil Nadu are the main states of coffee production in India                           |
+
+## Tea
+| Aspect        | Description                                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------------------|
+| Temperature   | Requires hot and wet climate, ideal temperature between 20°C to 30°C                                               |
+|               | Temperature above 35°C or below 10°C is harmful for tea growth                                                     |
+| Rainfall      | Requires rainfall ranging between 150-300 cm, well-distributed throughout the year                                |
+|               | Long dry spells are harmful for tea cultivation                                                                    |
+| Soil          | Well-drained, deep, friable loamy soil                                                                             |
+|               | Virgin forest soils rich in humus and iron content are considered best for tea cultivation                        |
+|               | Tea is a shade-loving plant and grows better when planted along with shady trees                                  |
+| Labour        | Cheap and efficient labor is required for tea production                                                           |
+| Distribution  | Assam is the leading producer, accounting for more than 50% of India's tea production                             |
+|               | Tea production in Assam is concentrated in the hill slopes bordering the Brahmaputra and Surma valleys             |
+|               | West Bengal is the second-largest producer, with tea cultivation in districts like Darjeeling, Siliguri, Jalpaiguri, and Cooch Bihar |
+|               | Tamil Nadu is the third-largest producer, with tea cultivation mostly in the Nilgiri hills                        |
+
+
 ##  MAJOR CHALLENGES FACED BY INDIAN AGRICULTURE
 * 1. Stagnation in Production of Major Crops: 
 * 2. High cost of Farm Inputs: 
