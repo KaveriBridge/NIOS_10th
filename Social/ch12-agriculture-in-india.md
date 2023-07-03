@@ -52,4 +52,17 @@ After studying this lesson you will be able to:
 * (d) Dependence upon monsoon: Two third of cropped areas is still dependent upon monsoon
 * (e) Variety of crops: India has diversity of topography, climate and soil. 
 * (f) Predominance of food crops
-* (g) Seasonal patterns: India has three distinct agricultural/cropping seasons - kharif, rabi and zaid. 
+* (g) Seasonal patterns: India has three distinct agricultural/cropping seasons - kharif, rabi and zaid.
+
+## Major crops
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c749bf48-3d74-4ba9-8a15-2fb735fdc891)
+
+##  MAJOR CHALLENGES FACED BY INDIAN AGRICULTURE
+* 1. Stagnation in Production of Major Crops: 
+* 2. High cost of Farm Inputs: 
+* 3. Soil Exhaustion: 
+* 4. Depletion of Fresh Ground Water
+* 5. Adverse impact of Global Climatic Change
+* 6. Impact of Globalisation 
+* 7. Providing Food Security: 
+* 8. Farmers Suicide
