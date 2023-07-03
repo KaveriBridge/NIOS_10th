@@ -57,6 +57,19 @@ After studying this lesson you will be able to:
 ## Major crops
 ![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c749bf48-3d74-4ba9-8a15-2fb735fdc891)
 
+
+## Groundnut - The most important oilseed of India
+| Aspect                       | Description                                                                                           |
+|------------------------------|-------------------------------------------------------------------------------------------------------|
+| Growing Seasons              | Kharif (90-95% of total area) and Rabi crop                                                           |
+| Temperature                  | Thrives best in tropical climate, requires 20°C to 30°C                                                 |
+| Rainfall                     | 50-75 cm rainfall favorable, susceptible to frost, prolonged drought, continuous rain, and stagnant water |
+| Soil                         | Well-drained light sandy loams, red, yellow, and black soils                                           |
+| Distribution in India        | Most important oilseed in India, accounts for about half of major oilseeds produced                     |
+| India's Production           | Largest producer of groundnut in the world, accounting for about one third of global production         |
+| Major Producers in India     | Andhra Pradesh, Tamil Nadu, and Gujarat (60% of total production)                                     |
+| Other Producers in India     | Maharashtra, Karnataka, and Odisha (30% of total production)                                           |
+
 ##  MAJOR CHALLENGES FACED BY INDIAN AGRICULTURE
 * 1. Stagnation in Production of Major Crops: 
 * 2. High cost of Farm Inputs: 
