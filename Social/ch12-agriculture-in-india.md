@@ -34,3 +34,12 @@ After studying this lesson you will be able to:
 | Comparison to India      | Practiced in limited areas like Kerala | Not commonly practiced in India |
 | Total Production         | High due to intensive cultivation | High due to larger area |
 | Production per Unit Area | High | Low |
+
+## Various revolutions in India
+| Revolution       | Description                                                                                                                                       |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Green Revolution | Technological breakthrough based on improved seeds of high yielding varieties, adequate and assured water supply, and increased use of fertilizers |
+| White Revolution | Remarkable increase in milk production  |
+| Blue Revolution  | Significant increase in freshwater and marine fish catch                                                                                          |
+| Yellow Revolution| Steady and assured supply of poultry products                                                                                                      |
+| Pink Revolution  | Rise in apple production, particularly in Himachal Pradesh and J&K states                                                           |
