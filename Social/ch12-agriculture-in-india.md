@@ -57,6 +57,18 @@ After studying this lesson you will be able to:
 ## Major crops
 ![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c749bf48-3d74-4ba9-8a15-2fb735fdc891)
 
+## Gram - Pulse
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+| Temperature  | Grown in a wide range of climatic conditions, mild cool and comparatively dry climate with 20°C-25°C          |
+| Rainfall     | 40-45 cm rainfall is favorable for gram cultivation                                                          |
+| Soil         | Grows well on loamy soils                                                                                    |
+| Distribution | Cultivated in several parts of the country, with 90% of total production coming from five states:            |
+|              | - Madhya Pradesh                                                                                             |
+|              | - Uttar Pradesh                                                                                              |
+|              | - Rajasthan                                                                                                  |
+|              | - Haryana                                                                                                    |
+|              | - Maharashtra                                                                                                |
 
 ## Groundnut - The most important oilseed of India
 | Aspect                       | Description                                                                                           |
