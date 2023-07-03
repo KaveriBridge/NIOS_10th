@@ -15,4 +15,22 @@ After studying this lesson you will be able to:
 * Mixed Farming: Raising crops and rearing animals carried on simultaneously
 
 
+## Subsistence vs Commercial Farming
 
+| Farming Type                  | Subsistence Farming | Commercial Farming |
+|-------------------------------|---------------------|-------------------|
+| Definition                    | Farming for own consumption; no surplus to sell in the market | Produce sold in the market for earning money |
+| Farmer's Consumption          | Majority of production is consumed by farmers and their family | Only a portion of the produce is consumed by the farmers |
+| Landholdings                  | Small and fragmented | - |
+| Cultivation Techniques        | Primitive and simple | Modern techniques used |
+| Equipment                     | Absence of modern equipment like tractors | Equipment like irrigation, chemical fertilizers, insecticides, pesticides used |
+| Crops Grown                   | Mostly cereals, oil seeds, pulses, vegetables, and sugarcane | Major commercial crops such as cotton, jute, sugarcane, groundnut |
+
+## Intensive vs Extensive farming
+| Farming Type             | Intensive Farming | Extensive Farming |
+|--------------------------|------------------|------------------|
+| Definition               | High production per unit of land | Large area used for cultivation |
+| Examples                 | Japan, limited availability of land | Temperate areas of USA, Canada, and former USSR |
+| Comparison to India      | Practiced in limited areas like Kerala | Not commonly practiced in India |
+| Total Production         | High due to intensive cultivation | High due to larger area |
+| Production per Unit Area | High | Low |
