@@ -57,6 +57,27 @@ After studying this lesson you will be able to:
 ## Major crops
 ![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c749bf48-3d74-4ba9-8a15-2fb735fdc891)
 
+## Rice
+* Most important food crop of India.
+* Predominantly a Kharif or summer crop.
+* Covers about one third of total cultivated area of the country
+* Provides food to more than half of the Indian population.
+* Only crop in India which is grown in varied conditions
+
+### Areas grown
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/c1482021-1f51-4996-8bf9-30caf73adea5)
+
+### Conditions
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+| Temperature  | Hot and humid condition, 24°C mean, average of  22°C to 32°C
+| Rainfall     | 150-300 cm
+| Soil         | Varied soil conditions but deep clayey and loamy soil ideal
+| Distribution | In plains
+| States       | Major states - Tamilnadu, West Bengal, Andhra Pradesh, Bihar, Jharkhand, Uttarakhand, Chhatisgarh, Punjab, Odisha, Uttar Pradesh, Karnataka, Assam and Maharashtra. 
+|              | Also grown in Haryana, Madhya Pradesh, Kerala, Gujrat and Kashmir Valley
+| Labour | Easily available cheap labour, Not well suited for mechanization
+
 ## Gram - Pulse
 | Aspect       | Description                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------|
