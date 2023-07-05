@@ -78,6 +78,26 @@ After studying this lesson you will be able to:
 |              | Also grown in Haryana, Madhya Pradesh, Kerala, Gujrat and Kashmir Valley
 | Labour | Easily available cheap labour, Not well suited for mechanization
 
+## Wheat
+* Second most important food crop of India next to rice.
+* Rabi or winter crop.
+* Sown in the beginning of winter (October-November) and harvested in the beginning of summer (March-April).
+* Staple food of millions of people particularly in the northern and north-western regions of India. 
+### Areas
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/53cee716-cf9b-46f9-82cf-3eb474b6e531)
+
+### Geographical conditions
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+|              | Primarily a crop of mid-latitude grassland
+| Temperature  | Cool climate, 10°C to 15°C at the time of sowing and 21°C to 26°C at the time of ripening and harvesting.
+| Rainfall     | ~75cm. 100cm is the upper limit for wheat cultivation. 
+|              | Frost at the time of flowering and hailstorm at the time of ripening can cause heavy damage to the wheat crop.
+| Soil |Well drained fertile loamy and clayey loamy soil ideal. Plain areas well suited
+| Labour| Highly mechanized and requires less labour. 
+| Distribution|  U.P., Punjab, Haryana, Rajasthan, Madhya Pradesh, Gujrat,Maharashtra. 
+|             | U.P., Punjab and Haryana together produce more than 66% of the total wheat of the country
+
 ## Gram - Pulse
 | Aspect       | Description                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------|
