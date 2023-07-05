@@ -81,9 +81,9 @@ After studying this lesson you will be able to:
 ## Gram - Pulse
 | Aspect       | Description                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------|
-| Temperature  | Grown in a wide range of climatic conditions, mild cool and comparatively dry climate with 20°C-25°C          |
-| Rainfall     | 40-45 cm rainfall is favorable for gram cultivation                                                          |
-| Soil         | Grows well on loamy soils                                                                                    |
+| Temperature  | Wide range of climatic conditions, mild cool and comparatively dry climate with 20°C-25°C   
+| Rainfall     | 40-45 cm 
+| Soil         | Loamy soils     
 | Distribution | Cultivated in several parts of the country, with 90% of total production coming from five states:            |
 |              | - Madhya Pradesh                                                                                             |
 |              | - Uttar Pradesh                                                                                              |
@@ -95,7 +95,7 @@ After studying this lesson you will be able to:
 | Aspect                       | Description                                                                                           |
 |------------------------------|-------------------------------------------------------------------------------------------------------|
 | Growing Seasons              | Kharif (90-95% of total area) and Rabi crop                                                           |
-| Temperature                  | Thrives best in tropical climate, requires 20°C to 30°C                                                 |
+| Temperature                  | Tropical climate, 20°C to 30°C 
 | Rainfall                     | 50-75 cm rainfall favorable, susceptible to frost, prolonged drought, continuous rain, and stagnant water |
 | Soil                         | Well-drained light sandy loams, red, yellow, and black soils                                           |
 | Distribution in India        | Most important oilseed in India, accounts for about half of major oilseeds produced                     |
