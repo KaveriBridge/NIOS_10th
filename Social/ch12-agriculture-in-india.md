@@ -1,4 +1,4 @@
-# AGRICULTURE IN INDIA
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/62b96985-6b87-46f3-8686-5f8b430c719a)# AGRICULTURE IN INDIA
 ## Objectives
 After studying this lesson you will be able to:
 * explain various types of farming in India;
@@ -98,6 +98,54 @@ After studying this lesson you will be able to:
 | Distribution|  U.P., Punjab, Haryana, Rajasthan, Madhya Pradesh, Gujrat,Maharashtra. 
 |             | U.P., Punjab and Haryana together produce more than 66% of the total wheat of the country
 
+# Commercial crops 
+* Crops are those crops which are grown for sale either in raw form or semi processed form.
+## Sugarcane
+* Second largest producer next to Brazil
+* Largest area under sugarcane cultivation in the world, 
+* Kharif crop
+* Main source of sugar, gur and khandsari
+* Raw material for the manufacturing of alcohol.
+* Bagasse, the crushed cane residue, has also multiple uses - Manufacturing of paper, An efficient substitute for petroleum products and a host of other chemical products, and as fodder.
+## Areas
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/902d0aa4-9839-47db-a6a8-8274c13a9039)
+
+### Geographical conditions for the growth of sugarcane
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+| Temperature| Hot and humid climate with an average temperature of 21°C to 27°C.
+| Rainfall| 75-150 cm rainfall
+| Soil| Can grow in a variety of soils. Any kind of soil that can retain moisture. But deep rich loamy soil is ideal for its growth. The soil should be rich in nitrogen, calcium and phosphorous but neither it should be too acidic nor alkaline.
+|| Flat, plain and level plateau is an advantage for sugarcane cultivation because it facilitates irrigation and transportation of cane to the sugar mills.
+|| Sugarcane cultivation requires heavy manures and fertilizers because it exhausts the fertility of soils quickly and extensively.
+| Labour| Labour orientated cultivation and requires cheap labour. Ample human hands are required at every stage i.e. sowing, hoeing, weeding, irrigation, cutting and carrying sugarcanes to the factories
+| Distribution| Three distinct geographical regions in the country. 
+||(i) The Satluj-Ganga plain from Punjab to Bihar containing 51% of the total area and 60% of the country’s total production. 
+||(ii) The black soil belt from Maharashtra to Tamil Nadu along the eastern slopes of the western Gahats.
+||(iii) Coastal Andhra Pradesh and Krishna river valley
+## Cotton
+* Most important fibre crop
+* Raw material for cotton textile industry
+* Cotton seed - Vanaspati oil industry, as part of fodder for milch cattle for better milk production.
+* A kharif crop
+* Grown in tropical and sub-tropical areas.
+*  India has the largest area under cultivation and third largest producer of cotton next only to China and the USA
+## Areas
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/bbdf0d51-8b3f-443e-8e34-80324348e469)
+
+### Geographical conditions for cotton:
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+| Climate | Tropical and sub-tropical areas
+| Temperature | Uniformly high temperature varying between 21°C and 30°C.
+| Rainfall| at least 210 frost free days in a year, 50 to 100cm
+||With the help of irrigation in the areas where rainfall is less than 50 cm.
+|| High amount of rainfall in the beginning and sunny and dry weather at the time of ripening are very useful for a good crop.
+||
+|Soil| Black soils of Deccan and Malwa plateau. Grows well in alluvial soils of the Satluj-Ganga plain and red and laterite soils of the peninsular region.
+|Labour|Lot of cheap and efficient labour is required at the time of picking.
+| Distribution|. Within the country two third of total area and production is shared by four states. The main states for cotton production are Panjab, Maharashtra, Gujarat and Haryana
+
 ## Gram - Pulse
 | Aspect       | Description                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------|
@@ -111,6 +159,11 @@ After studying this lesson you will be able to:
 |              | - Haryana                                                                                                    |
 |              | - Maharashtra                                                                                                |
 
+# Oil seeds
+* India has the largest area and production of oilseeds in the world.
+* Oil extracted from oilseeds not only forms an important item of our diet but also serves as raw material for the manufacturing of hydrogenated oils, paints, varnishes, soaps, lubricants etc.
+* Oil-cake (the residue after the oil is extracted from the oilseeds) forms an important cattle feed and manure.
+
 ## Groundnut - The most important oilseed of India
 | Aspect                       | Description                                                                                           |
 |------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -122,20 +175,15 @@ After studying this lesson you will be able to:
 | India's Production           | Largest producer of groundnut in the world, accounting for about one third of global production         |
 | Major Producers in India     | Andhra Pradesh, Tamil Nadu, and Gujarat (60% of total production)                                     |
 | Other Producers in India     | Maharashtra, Karnataka, and Odisha (30% of total production)                                           |
+# Plantation Crops
 
-## Coffee 
-| Aspect        | Description                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------|
-| Temperature   | Hot and humid climate, temperature between 15°C and 28°C, grown under shady trees                              |
-|               | Strong sunlight, high temperature above 30°C, frost, and snowfall are harmful for coffee cultivation           |
-|               | Dry weather is necessary at the time of ripening of berries                                                   |
-| Rainfall      | Rainfall between 150 to 250 cm is favorable for coffee cultivation                                            |
-| Soil          | Well-drained, rich friable loamy soil containing humus and minerals like iron and calcium                     |
-|               | Proper manuring to retain and replenish fertility and increase productivity                                   |
-| Labour        | Requires plenty of cheap and skilled labor for sowing, transplanting, pruning, plucking, grading, and packing |
-| Distribution  | Karnataka, Kerala, and Tamil Nadu are the main states of coffee production in India                           |
 
 ## Tea
+
+## Areas
+![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/87a2cc8d-00e2-4b56-b55e-5053afae4c78)
+
+## Geographic factors
 | Aspect        | Description                                                                                                      |
 |---------------|------------------------------------------------------------------------------------------------------------------|
 | Temperature   | Requires hot and wet climate, ideal temperature between 20°C to 30°C                                               |
@@ -150,6 +198,19 @@ After studying this lesson you will be able to:
 |               | Tea production in Assam is concentrated in the hill slopes bordering the Brahmaputra and Surma valleys             |
 |               | West Bengal is the second-largest producer, with tea cultivation in districts like Darjeeling, Siliguri, Jalpaiguri, and Cooch Bihar |
 |               | Tamil Nadu is the third-largest producer, with tea cultivation mostly in the Nilgiri hills                        |
+
+
+## Coffee 
+| Aspect        | Description                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------|
+| Temperature   | Hot and humid climate, temperature between 15°C and 28°C, grown under shady trees                              |
+|               | Strong sunlight, high temperature above 30°C, frost, and snowfall are harmful for coffee cultivation           |
+|               | Dry weather is necessary at the time of ripening of berries                                                   |
+| Rainfall      | Rainfall between 150 to 250 cm is favorable for coffee cultivation                                            |
+| Soil          | Well-drained, rich friable loamy soil containing humus and minerals like iron and calcium                     |
+|               | Proper manuring to retain and replenish fertility and increase productivity                                   |
+| Labour        | Requires plenty of cheap and skilled labor for sowing, transplanting, pruning, plucking, grading, and packing |
+| Distribution  | Karnataka, Kerala, and Tamil Nadu are the main states of coffee production in India                           |
 
 
 ##  MAJOR CHALLENGES FACED BY INDIAN AGRICULTURE
