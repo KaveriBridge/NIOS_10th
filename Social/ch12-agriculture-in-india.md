@@ -1,4 +1,4 @@
-![image](https://github.com/KaveriBridge/NIOS_10th/assets/20998959/62b96985-6b87-46f3-8686-5f8b430c719a)# AGRICULTURE IN INDIA
+# AGRICULTURE IN INDIA
 ## Objectives
 After studying this lesson you will be able to:
 * explain various types of farming in India;
