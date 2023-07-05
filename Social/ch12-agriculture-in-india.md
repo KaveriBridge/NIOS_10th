@@ -98,6 +98,28 @@ After studying this lesson you will be able to:
 | Distribution|  U.P., Punjab, Haryana, Rajasthan, Madhya Pradesh, Gujrat,Maharashtra. 
 |             | U.P., Punjab and Haryana together produce more than 66% of the total wheat of the country
 
+## Millets
+* Millets are short duration warm weather crops.
+* These are coarse grain crops and are used for both food and fodder.
+* These are kharif crop.
+* These are sown in May-August and harvested in October-November.
+* Today millets are mostly consumed by poor people as their staple food.
+* In India, lots of millet is grown and these are known by various local names.
+* Some of these are Jawar, Bajra, Ragi, Korra, Kodon, Kutki, Hraka, Bauti, Rajgira. In India, Jawar, Bajra and Ragi are grown.on large areas
+* But unfortunately area under these crops has drastically reduced over the years.
+
+### Geographical conditions
+| Aspect       | Description                                                                                                  |
+|--------------|--------------------------------------------------------------------------------------------------------------|
+| Temperature | 27°C to 32°C.
+| Rainfall |  ‘dry land crops’, 50 to 100cm is ideal
+| Soil| Less sensitive to soil deficiencies. Can be grown in inferior alluvial or loamy soil.
+| Distribution| Jawar, Bajra, is grown both in north and south India 
+|             | Ragi is generally concentrated in the southern India. 
+|| Jawar, Bajra, is grown in Madhya Pradesh, Gujrat, Rajasthan, Maharastra, Karnataka, Tamil Nadu, Andhra Pradesh, Haryana and Punjab. 
+|| Ragi is generally concentrated in the southern India i.e. Tamilnadu, Karnataka and Andhra Pradesh.
+
+
 # Commercial crops 
 * Crops are those crops which are grown for sale either in raw form or semi processed form.
 ## Sugarcane
@@ -146,6 +168,13 @@ After studying this lesson you will be able to:
 |Labour|Lot of cheap and efficient labour is required at the time of picking.
 | Distribution|. Within the country two third of total area and production is shared by four states. The main states for cotton production are Panjab, Maharashtra, Gujarat and Haryana
 
+# Pulses
+* Mostly leguminous and provide invaluable proteins to the vegetarian population of India.
+* Excellent forage and grain concentrates in the cattle feed.
+* Capacity to fix atmospheric nitrogen in the soil and are normally rotated with other crops to maintain and restore soil fertility.
+* A large variety of pulses are found in India.
+* These are gram, tur or arhar (Pigeon Pea or Red Gram), urd (black gram), mung (green gram), masur (lentil), kulthi (horse gram), matar (peas) etc.
+* But among these above mentioned varieties only gram and tur or arhar are more important pulses.
 ## Gram - Pulse
 | Aspect       | Description                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------------------|
