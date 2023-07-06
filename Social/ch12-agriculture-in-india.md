@@ -26,6 +26,16 @@ After studying this lesson you will be able to:
 | Equipment                     | Absence of modern equipment like tractors | Equipment like irrigation, chemical fertilizers, insecticides, pesticides used |
 | Crops Grown                   | Mostly cereals, oil seeds, pulses, vegetables, and sugarcane | Major commercial crops such as cotton, jute, sugarcane, groundnut |
 
+
+| Aspect                 | Subsistence Farming                             | Commercial Farming                               |
+|------------------------|-------------------------------------------------|-------------------------------------------------|
+| Primary Goal           | Producing enough food for immediate family      | Generating profit by selling agricultural products |
+| Scale                  | Small-scale                                    | Large-scale                                      |
+| Market Orientation     | Self-consumption                               | Market-oriented, selling to consumers or industries |
+| Technology and Inputs  | Relies on traditional methods and limited inputs | Utilizes modern technology and advanced inputs     |
+| Income Source          | Diverse sources, often supplemented with off-farm activities | Main income source is from agricultural production |
+
+
 ## Intensive vs Extensive farming
 | Farming Type             | Intensive Farming | Extensive Farming |
 |--------------------------|------------------|------------------|
