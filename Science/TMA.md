@@ -14,10 +14,17 @@
 * iii. Name the device which relies on the principle demonstrated by this model.
 * iv. The form of energy that is being converted into electrical energy. Make it clear
 
-### (b) The car is parked in the sun by Sunil, and he completely closes the doors, and windows of the car for safety. After some time opening the doors of the car, he realizes that the temperature inside the car was higher than the temperature outside. Explain that due to which effect of heat this happened. If the car is completely covered with white cloth, then there will be any effect in the internal temperature of that car, if yes, explain the reason.  (See lesson 14)
+### (b) The car is parked in the sun by Sunil, and he completely closes the doors, and windows of the car for safety...
+* After some time opening the doors of the car, he realizes that the temperature inside the car was higher than the temperature outside.
+* Explain that due to which effect of heat this happened.
+* If the car is completely covered with white cloth, then there will be any effect in the internal temperature of that car, if yes, explain the reason.  (See lesson 14)
 
 ## 2. Answer any one of the following questions in about 40- 60 words.
-### (a) In the winter season, fire is used as heat to escape from the cold. Due to the extreme cold, Shashi lit firewood in the room to increase the temperature of the room and closed the windows and doors of the room so that the cold outside air could not come into the room. After some time he felt suffocated. When the windows and doors of the room were opened, there was relief from suffocation. Explain exactly the main cause of event.  (See lesson 26) 
+### (a) In the winter season, fire is used as heat to escape from the cold. 
+* Due to the extreme cold, Shashi lit firewood in the room to increase the temperature of the room and closed the windows and doors of the room so that the cold outside air could not come into the room. 
+* After some time he felt suffocated. When the windows and doors of the room were opened, there was relief from suffocation. 
+* Explain exactly the main cause of event.  (See lesson 26) 
+
 ### (b)  Scientists choose 1/16 of the mass of a naturally occurring oxygen atom as the atomic mass unit. Explain the reason. (see Lessson-3)
 
 # 3. Answer any one of the following questions in about 40-60 words.
